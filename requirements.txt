@@ -1,0 +1,27 @@
+# Core data processing
+numpy
+xarray
+
+# Geospatial data handling
+geopandas
+shapely
+pyproj
+
+# Raster data processing
+rasterio
+rioxarray
+
+# OpenStreetMap data
+osmnx
+
+# Machine Learning
+scikit-learn
+
+# Jupyter support
+ipykernel
+jupyter
+
+# Additional dependencies that the above packages need
+# (usually installed automatically, but listed for completeness)
+matplotlib
+pandas
