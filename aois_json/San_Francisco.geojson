@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "city": "San_Francisco"
+        "city": "San Francisco"
       },
       "geometry": {
         "type": "Polygon",
