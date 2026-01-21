@@ -1,0 +1,29 @@
+{
+  "model": "RandomForest",
+  "ground_truth": "WorldCover_2021",
+  "training_cities": [
+    "Amsterdam",
+    "Auckland",
+    "Barcelona",
+    "Sydney",
+    "Toronto",
+    "Wien"
+  ],
+  "n_cities": 6,
+  "total_training_samples": 1257873,
+  "total_testing_samples": 314469,
+  "accuracy": 0.9270166534698173,
+  "precision": 0.8395688928196795,
+  "recall": 0.7293014114704306,
+  "f1_score": 0.7805600971421469,
+  "confusion_matrix": [
+    [
+      250699,
+      7800
+    ],
+    [
+      15151,
+      40819
+    ]
+  ]
+}
