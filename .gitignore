@@ -34,3 +34,7 @@ WorldCover_Clipped/San_Francisco_WorldCover_clipped.tif
 WorldCover_Clipped/Seattle_WorldCover_clipped.tif
 WorldCover_Clipped/worldcover_osm_comparison.png
 .DS_Store
+/WorldCover_Clipped
+Clip_WorldCover_to_AOI.ipynb
+Clip_WorldCover_to_AOI.ipynb
+Clip_WorldCover_to_AOI.ipynb
