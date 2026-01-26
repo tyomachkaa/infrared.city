@@ -43,7 +43,7 @@ app.config['UPLOAD_FOLDER'] = tempfile.mkdtemp()
 
 # Global model variable (will be loaded or created)
 TRAINED_MODEL = None
-MODEL_PATH = "/Users/timgotschim/Documents/LLM/infrared.city/multi_city_training/run_20260120_225557/random_forest_model.pkl"
+MODEL_PATH = "/Users/tyomachka/Desktop/WU/Data_Lab.TMP/rep.infrared.city/random_forest_model.pkl"
 
 # HTML Template
 HTML_TEMPLATE = """
